@@ -1,0 +1,12 @@
+enable_damage = false
+creative_mode = true
+mod_storage_backend = sqlite3
+auth_backend = sqlite3
+backend = sqlite3
+player_backend = sqlite3
+gameid = minetest_game
+world_name = world
+load_mod_visitors_privs = true
+load_mod_c_doors = true
+load_mod_carpets = true
+load_mod_tables_chairs = true

@@ -1,0 +1,11 @@
+# textdomain:tables_chairs
+ of = aus 
+Table=Tisch
+Small Table=Kleiner Tisch
+Tiny Table=Winziger Tisch
+Chair=Stuhl
+Stool=Hocker
+Bench=Bank
+Comfortable Bench=Behagliche Bank
+You tried to sit but hit your head.=Du hast versucht, dich zu setzen, hast dir aber den Kopf gestoßen.
+You can only sit down when you are not moving.=Du kannst dich nur hinsetzen, wenn du dich nicht bewegst.
