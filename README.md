@@ -1,5 +1,4 @@
-بسم الله الرحمٰن الرحيم - בסייעתא דשמיא
-
+بسم الله الرحمٰن الرحيم - בסייעתא דשמיא \
 שלום עליכם, ברוכים הבאים בשם ה' - السلام عليكم ورحمة الله
 # beer-lachay-roee-zamzam
 A simulation of a Muslim-Jewish community village in Minetest [Minetest](https://www.minetest.net/)
@@ -10,3 +9,14 @@ A simulation of a Muslim-Jewish community village in Minetest [Minetest](https:/
 # WhatsApp Group
 You are kindly invited to join our WhatsApp group:
 https://chat.whatsapp.com/K9kR2RaNQbGGEp5RSnK0XE
+
+# Our Server
+In order to browse the world as a visitor (and apply a request to join the community if you want), you are invited to connect to our server:
+1. Download Minetest
+2. Go to the "Join Game" tab
+3. type in the following details:
+      IP Address: `185.223.28.121` \
+      Port: `2152`
+4. choose a username and type it
+5. click the "Register" button
+6. choose a password
